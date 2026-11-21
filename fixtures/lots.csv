@@ -1,0 +1,3 @@
+source,listing_id,title,description,category,quantity,storage,condition,evidence,confidence,review_status
+Illustrative,case-a,111 mixed business laptops,Older laptops from multiple manufacturers.,Laptop,111,,"Reported working tests, missing storage on many units, and varying defects.","Project brief. Seller-reported claims without a verified manifest, individual diagnostics or purchase price.",low,researching
+Illustrative,case-b,38 mixed-capacity SATA SSDs,Used SATA SSDs in multiple capacities.,SSD,38,Mixed,"Reported erased and initially health-tested.","Project brief. Seller-reported claims without drive models, individual health readings, sanitisation records or a purchase price.",low,researching

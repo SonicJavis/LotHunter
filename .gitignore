@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# Development caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Build outputs
+build/
+dist/
+*.egg-info/
